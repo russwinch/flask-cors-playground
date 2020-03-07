@@ -10,3 +10,5 @@ web server:
     * `python -m http.server`
 
 Hit http://localhost:8000 and open the console to test
+
+Based on the excellent example from: https://github.com/PrettyPrinted/youtube_video_code/tree/master/2019/08/06/CORS%20in%20Flask
